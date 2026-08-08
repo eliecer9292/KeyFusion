@@ -2,8 +2,7 @@
   "version": "2.3.0",
   "publishedAt": "2026-08-07T00:00:00Z",
   "url": "https://github.com/eliecer9292/KeyFusion/releases/download/v2.3.0/2.3.0.zip",
-  "sha256": "46bd3e8e9987c7c0cb7ab1d1e12ac72ca1235ef403105f2ac3ea9dd59a09cb41",
-  "size": 78813346,
-  "notes": "Updates in-place, Air Sens, licencia",
+  "sha256": "dbb944c6966bc4c7e1bad09b56738d1d1a96d76a3bbbb82bf38deebe11df93dc",
+  "notes": "• GPU Scanner + NVIDIA/AMD/Windows con Aplicar automáticamente · Updates por SHA-256 · Encendido F1 y 0 · Air Sens y macros Mouse 4/5 · COD/WARZONE · UI más legible",
   "history": []
 }
