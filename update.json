@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
+  "version": "2.7.0",
   "publishedAt": "2026-08-07T00:00:00Z",
-  "url": "https://github.com/eliecer9292/KeyFusion/releases/download/v2.6.0/2.6.0.zip",
-  "sha256": "EBA9E69A1FE49C7ECD9C00E20A6413444D540F2ADE47F6BAFD03BAA8F4273F5D",
-  "notes": "• Auto Placa · Buff Aim (hipfire / Solo L2) · Motor de IA Warzone · Macros más limpias · Sensibilidad (DPI / Noise / Ratio) · F1/0 · Air Sens · COD/WARZONE/BO7/MW4/FORTNITE",
+  "url": "https://github.com/eliecer9292/KeyFusion/releases/download/v2.7.0/2.7.0.zip",
+  "sha256": "507323f78777c6ae24de8911cf0a9706d8e656f3cd829157e95f123025a25085",
+  "notes": "Correcciones y mejoras · Aim Color (gotero / color picker) · Armas / Retroceso por arma (Zona nombre + preview) · Tarjetas de armas seleccionables · Detección icono + nombre más fiable",
   "history": []
 }
